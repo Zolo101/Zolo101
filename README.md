@@ -16,7 +16,9 @@ Current Projects:
 - **[\[bc\]](https://bc.zelo.dev/) (Warning: Spoilers on the next episode!!)**
     - Counts character elimination votes (from youtube comments) in realtime for BFDI: TPOT episodes when released.
     - [Source](https://github.com/Zolo101/bracketcounter)
-- Untitled cellular automation project
+- **[Cell Workshop](https://zelo.dev/cell-workshop/)**
+    - Make cool pixel art with simple rules!
+    - [Source](https://github.com/Zolo101/cell-workshop)
 - Untitled fractal project
 
 Also working on:
