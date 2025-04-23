@@ -13,15 +13,14 @@ Current Projects:
 - **[zelo's ant](https://ant.zelo.dev/)**
     - Langton's ant simulator where you can create your own rules!
     - [Source](https://github.com/Zolo101/zelos_ant)
-- **[\[bc\]](https://bc.zelo.dev/) (Warning: Spoilers on the next episode!!)**
-    - Counts character elimination votes (from youtube comments) in realtime for BFDI: TPOT episodes when released.
-    - [Source](https://github.com/Zolo101/bracketcounter)
 - **[Cell Workshop](https://zelo.dev/cell-workshop/)**
     - Make cool pixel art with simple rules!
     - [Source](https://github.com/Zolo101/cell-workshop)
 - Untitled fractal project
 
 Also working on:
+- **[RenderScale](https://github.com/Zolo101/RenderScale)**
+    - Allows you to change Minecraft's render resolution separately from the HUD elements.
 - **[Not Enough Servers](https://github.com/Zolo101/NotEnoughServers)**
     - Minecraft mod that improves the server list
 - **[B*](https://github.com/b-Development-Team/b-star)**
